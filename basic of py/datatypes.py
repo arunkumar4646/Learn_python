@@ -23,3 +23,14 @@ print(sum1+sum2)
 boolean1=True
 boolean2=False
 
+# Check type of a function
+x = 5
+print(type(x))
+
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
+
+print(type(x))
+print(type(y))
+print(type(z))
